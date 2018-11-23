@@ -1,0 +1,8 @@
+C:\Users\Brad\Documents\SharpDevelop Projects\DangerousDaveInMtG\DangerousDaveInMtG\bin\Debug\DangerousDaveInMtG.exe.config
+C:\Users\Brad\Documents\SharpDevelop Projects\DangerousDaveInMtG\DangerousDaveInMtG\bin\Debug\DangerousDaveInMtG.exe
+C:\Users\Brad\Documents\SharpDevelop Projects\DangerousDaveInMtG\DangerousDaveInMtG\bin\Debug\DangerousDaveInMtG.pdb
+C:\Users\Brad\Documents\SharpDevelop Projects\DangerousDaveInMtG\DangerousDaveInMtG\obj\Debug\DangerousDaveInMtG.csprojResolveAssemblyReference.cache
+C:\Users\Brad\Documents\SharpDevelop Projects\DangerousDaveInMtG\DangerousDaveInMtG\obj\Debug\DangerousDaveInMtG.exe
+C:\Users\Brad\Documents\SharpDevelop Projects\DangerousDaveInMtG\DangerousDaveInMtG\obj\Debug\DangerousDaveInMtG.pdb
+C:\Users\Brad\Documents\SharpDevelop Projects\DangerousDaveInMtG\DangerousDaveInMtG\obj\Debug\DangerousDaveInMtG.MainForm.resources
+C:\Users\Brad\Documents\SharpDevelop Projects\DangerousDaveInMtG\DangerousDaveInMtG\obj\Debug\DangerousDaveInMtG.csproj.GenerateResource.Cache
